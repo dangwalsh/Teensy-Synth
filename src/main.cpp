@@ -25,13 +25,9 @@ void setup()
 
 	audioShield.enable();
   	audioShield.volume(0.5);
+
 }
 
 void loop()
 {
-}
-
-class MySineWave : public AudioSynthWaveformSine
-{
-
 }
